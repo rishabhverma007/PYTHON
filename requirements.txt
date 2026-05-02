@@ -1,7 +1,0 @@
-ipykernel
-scikit-learn
-pandas
-numpy
-matplotlib
-matplotlib-inline
-seaborn
